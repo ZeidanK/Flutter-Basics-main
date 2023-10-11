@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter-Basics-main",
+            "cwd": "Flutter-Basics-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter-Basics-main (profile mode)",
+            "cwd": "Flutter-Basics-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter-Basics-main (release mode)",
+            "cwd": "Flutter-Basics-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
